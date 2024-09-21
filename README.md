@@ -6,4 +6,6 @@ The real-time EEG/EOG data is acquired from a "ThinkGear Brain Kit" device conne
 
 The program also provides real-time visualization of the incoming data and resulting normalized cross-correlation scores.
 
+The program is implemented using the observer pattern.
+
 ![alt text](https://github.com/YusufSait/EEG-EOG_Recognizer/blob/main/Signal%20Similarity%20app%20UML.png?raw=true)
