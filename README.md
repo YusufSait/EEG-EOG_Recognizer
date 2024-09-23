@@ -1,4 +1,4 @@
-# EEG-EOG_Recognizer
+# EEG-EOG Recognizer
 
 The program analyzes real-time EEG/EOG data and detect actions based on the similarity between the current signal and the recorded signal pattern.
 
@@ -11,3 +11,5 @@ The program also provides real-time visualization of the incoming data and resul
 The program is implemented using the observer pattern.
 
 ![alt text](https://github.com/YusufSait/EEG-EOG_Recognizer/blob/main/Signal%20Similarity%20app%20UML.png?raw=true)
+
+This project was completed as a student project at Gediz University - Computer Engineering Department in 2014.
