@@ -2,6 +2,8 @@
 
 The program analyzes real-time EEG/EOG data and detect actions based on the similarity between the current signal and the recorded signal pattern.
 
+https://github.com/user-attachments/assets/c2d861eb-4ee6-44b8-9523-c99c7bca4660
+
 The real-time EEG/EOG data is acquired from a "ThinkGear Brain Kit" device connected via Bluetooth to the PC. Normalized cross-correlation method is implemented to determine the similarity between the current signal and previously recorded signal pattern. A dynamic-sized circular buffer data structure is utilized to efficiently record and analyze the incoming data.
 
 The program also provides real-time visualization of the incoming data and resulting normalized cross-correlation scores.
