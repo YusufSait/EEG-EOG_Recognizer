@@ -1,6 +1,6 @@
 # EEG-EOG Recognizer
 
-C# Windows Forms project for analyzing real-time EEG/EOG data, which detects actions by comparing the current signal with stored signal patterns.
+C# Windows Forms project for analyzing real-time EEG/EOG data, which detects actions by comparing the current signal with recorded signal patterns.
 
 https://github.com/user-attachments/assets/c2d861eb-4ee6-44b8-9523-c99c7bca4660
 
